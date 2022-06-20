@@ -93,13 +93,6 @@
 					<Value>32</Value>
 					<Modifiability>false</Modifiability>
 				</Setting>
-				<Setting>
-					<TypeIdentifier>(0x2cdb2f0b, 0x12f231ea)</TypeIdentifier>
-					<Name>Subtract physical minimum</Name>
-					<DefaultValue>false</DefaultValue>
-					<Value>false</Value>
-					<Modifiability>false</Modifiability>
-				</Setting>
 			</Settings>
 			<Attributes>
 				<Attribute>
@@ -112,7 +105,7 @@
 				</Attribute>
 				<Attribute>
 					<Identifier>(0x4e7b798a, 0x183beafb)</Identifier>
-					<Value>(0x78b8b69d, 0x27afe678)</Value>
+					<Value>(0x49639977, 0x355dca73)</Value>
 				</Attribute>
 				<Attribute>
 					<Identifier>(0xc80ce8af, 0xf699f813)</Identifier>
@@ -120,7 +113,7 @@
 				</Attribute>
 				<Attribute>
 					<Identifier>(0xce18836a, 0x9c0eb403)</Identifier>
-					<Value>3</Value>
+					<Value>2</Value>
 				</Attribute>
 			</Attributes>
 		</Box>
